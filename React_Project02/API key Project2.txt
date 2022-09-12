@@ -1,0 +1,8 @@
+Project 2 - Weather App
+API key
+
+d65baa182ca53a825b01f466d828bb00
+
+API call
+
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={d65baa182ca53a825b01f466d828bb00}
